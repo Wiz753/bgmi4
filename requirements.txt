@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+python-telegram-bot
+requests
+pymongo
+certifi
+aiohttp
+chmod +x *
